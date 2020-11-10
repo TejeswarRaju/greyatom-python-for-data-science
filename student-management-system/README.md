@@ -1,0 +1,1 @@
+This project on the University of Data Science to manage their students' records.in this project, we use the basic concepts in python to solve the student management system
